@@ -1,5 +1,5 @@
 {
-    "name": "imp/php-svg-bundler",
+    "name": "murdej/php-svg-bundler",
     "description": "Bundle multiple svg as symbol into one svg",
     "autoload": {
         "psr-4": {
